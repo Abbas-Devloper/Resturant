@@ -1,6 +1,6 @@
 # 🍽️ Restaurant Website Project
 
-![Restaurant Website Thumbnail](
+![Restaurant Website Thumbnail](images/Black and Yellow Video Centric Tutorial YouTube Thumbnail (3).png)
 
 ## 📹 Watch the Full Tutorial on YouTube
 
