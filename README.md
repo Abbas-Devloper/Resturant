@@ -1,14 +1,14 @@
 # 🍽️ Restaurant Website Project
 
-![Restaurant Website Thumbnail](images/Black and Yellow Video Centric Tutorial YouTube Thumbnail (3).png)
+![Restaurant Website Thumbnail](images/Black%20and%20Yellow%20Video%20Centric%20Tutorial%20YouTube%20Thumbnail%20(3).png)
 
 ## 📹 Watch the Full Tutorial on YouTube
 
 🎥 **Title:** How to Create a Restaurant Website with Animation | HTML CSS JS Full Tutorial under 10 Mints  
-🔗 **Watch Now:** [https://youtu.be/rAbvyGCQoU4?si=AOL38YVeOykCCZ_-](https://youtu.be/rAbvyGCQoU4?si=AOL38YVeOykCCZ_-)
+🔗 **Watch Now:** [https://youtube.com/@frontend-with-abbas?si=Gci3v082pz18A91_](https://youtu.be/rAbvyGCQoU4?si=AOL38YVeOykCCZ_-)
 
 📺 **Subscribe to My Channel:**  
-🔗 [https://youtube.com/@AbbasDevloper](https://youtube.com/@frontend-with-abbas?si=Gci3v082pz18A91_)
+🔗 [https://youtube.com/@Abbas-Devloper](https://youtube.com/@frontend-with-abbas?si=Gci3v082pz18A91_)
 
 ---
 
